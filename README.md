@@ -17,9 +17,6 @@
 	</center>
 	<hr />
 
-	<!-- Wst臋p Koniec -->
-	<!-- Rozwini臋cie -->
-
 <h2>
 		Wymagane moduły:
 	</h2>
