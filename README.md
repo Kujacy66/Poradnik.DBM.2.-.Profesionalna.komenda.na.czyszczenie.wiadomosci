@@ -38,13 +38,6 @@
 				target="_blank" 
 				title="Taki Tam Slu - YouTube"
 				>
-					<img 
-					src="Pliki (Czytaj Mnie!)/yt-logo.PNG" 
-					height="18px"
-					/> 
-						<font color="blue">
-						Taki Tam Slu
-						</font>
 			</a> 
 			<br />
 			<br />
