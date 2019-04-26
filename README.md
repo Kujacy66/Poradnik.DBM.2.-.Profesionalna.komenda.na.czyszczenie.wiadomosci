@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<html lang="pl">
-<head>
-	<title>Poradnik DBM - Odcinek 2</title>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<!-- By Taki Tam Slu 🔥#5916 -->
-</head>
 <body>
 	<!-- Wstęp -->
 
@@ -55,10 +48,10 @@
 			</a> 
 			<br />
 			<br />
-			Pamietaj, że surowe dane są niekiedy aktualizowane. Sprawdź <a href="https://github.com/TakiTamSlu/Poradnik.DBM1.Jak-zrobic-wiadomosc-ladowujaca" target="_blank" title="GitHub">GitHuba</a>, czy nie ma nowszej wersji paczki.<br />
+			Pamietaj, że surowe dane są niekiedy aktualizowane.<br />
 
 Strona oraz skrypty zostały napisane poprzez <b>Taki Tam Slu 🔥#5916</b>. Wszelkie prawa zastrzeżone &copy;.<br />
-			<code>Przypominam o przeczytaniu <a href="Licencja (License).html" title="Następna strona. Tyczy ona licencji.">licencji</a>.</code>
+			<code>Przypominam o przeczytaniu licencji.</code>
 		</font>
 	</center>
 </body>
