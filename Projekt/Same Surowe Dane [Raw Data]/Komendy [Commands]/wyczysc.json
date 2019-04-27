@@ -10,7 +10,7 @@
       "name": "Comment"
     },
     {
-      "comment": "| Autor: Taki Tam Slu ?? #5916",
+      "comment": "| Autor: Taki Tam Slu ğŸ”¥ #5916",
       "color": "#00ffff",
       "name": "Comment"
     },
@@ -42,7 +42,7 @@
     {
       "channel": "0",
       "varName": "",
-      "message": "? Nie posiadasz uprawnieñ `Zarz¹dzanie Wiadomoœciami`.",
+      "message": "â Nie posiadasz uprawnieÅ„ `ZarzÄ…dzanie WiadomoÅ›ciami`.",
       "storage": "0",
       "varName2": "",
       "name": "Send Message"
@@ -70,7 +70,7 @@
     {
       "channel": "0",
       "varName": "",
-      "message": "? Nie posiadam uprawnieñ `Zarz¹dzanie Wiadomoœciami`. Skontaktuj siê z administratorem bota.\nNiech nada mi wiêksz¹ permisjê.",
+      "message": "â Nie posiadam uprawnieÅ„ `ZarzÄ…dzanie WiadomoÅ›ciami`. Skontaktuj siÄ™ z administratorem bota.\nNiech nada mi wiÄ™kszÄ… permisjÄ™.",
       "storage": "0",
       "varName2": "",
       "name": "Send Message"
@@ -97,7 +97,7 @@
     {
       "channel": "0",
       "varName": "",
-      "message": "? Wpisz jak¹kolwiek liczbê, do usuniêcia wiadomoœci.\n`${tempVars(\"botPrefix\") || \"Wyst¹pi³ problem z botem! \"}wyczysc [liczba]`",
+      "message": "â Wpisz jakÄ…kolwiek liczbÄ™, do usuniÄ™cia wiadomoÅ›ci.\n`${tempVars(\"botPrefix\") || \"WystÄ…piÅ‚ problem z botem! \"}wyczysc [liczba]`",
       "storage": "0",
       "varName2": "",
       "name": "Send Message"
@@ -106,7 +106,7 @@
       "name": "End Action Sequence"
     },
     {
-      "comment": "Hurra! Wszystko sprawdzone. Pora usuwaæ wiadomoœci.",
+      "comment": "Hurra! Wszystko sprawdzone. Pora usuwaÄ‡ wiadomoÅ›ci.",
       "color": "#00ff00",
       "name": "Comment"
     },
@@ -147,13 +147,13 @@
       "name": "Store Member Info"
     },
     {
-      "comment": "Tworzymy wiadomoœæ Embed.",
+      "comment": "Tworzymy wiadomoÅ›Ä‡ Embed.",
       "color": "#ffff00",
       "name": "Comment"
     },
     {
       "title": "",
-      "author": "? Sukces!",
+      "author": "âœ… Sukces!",
       "color": "",
       "timestamp": "false",
       "url": "",
@@ -167,13 +167,13 @@
     {
       "storage": "1",
       "varName": "embedSukces",
-      "message": "Usuwanie wiadomoœci powiod³o siê.\nW przybli¿eniu usuniêto **${tempVars(\"liczba\") || \"B³¹d! Skontaktuj siê z w³aœcicielem bota.\"}** wiadomoœci.\n\n`Wiadomoœæ ta usuniê siê automatycznie za 5 sekund.`",
+      "message": "Usuwanie wiadomoÅ›ci powiodÅ‚o siÄ™.\nW przybliÅ¼eniu usuniÄ™to **${tempVars(\"liczba\") || \"BÅ‚Ä…d! Skontaktuj siÄ™ z wÅ‚aÅ›cicielem bota.\"}** wiadomoÅ›ci.\n\n`WiadomoÅ›Ä‡ ta usuniÄ™ siÄ™ automatycznie za 5 sekund.`",
       "name": "Set Embed Description"
     },
     {
       "storage": "1",
       "varName": "embedSukces",
-      "message": "Akcjê wywo³a³: ${tempVars(\"nickGracza\") || \"Coœ posz³o nie tak! Skontaktuj siê z w³aœcicielem bota\"}",
+      "message": "AkcjÄ™ wywoÅ‚aÅ‚: ${tempVars(\"nickGracza\") || \"CoÅ› poszÅ‚o nie tak! Skontaktuj siÄ™ z wÅ‚aÅ›cicielem bota\"}",
       "footerIcon": "",
       "name": "Set Embed Footer"
     },
@@ -187,7 +187,7 @@
       "name": "Send Embed Message"
     },
     {
-      "comment": "Koniec. Koñcowe czynnoœci.",
+      "comment": "Koniec. KoÅ„cowe czynnoÅ›ci.",
       "color": "#000040",
       "name": "Comment"
     },
