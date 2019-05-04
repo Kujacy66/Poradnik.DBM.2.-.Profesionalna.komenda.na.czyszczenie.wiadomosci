@@ -4,11 +4,10 @@
 <center>
 		<h1>
 			<u>
-				Dziękuję za pobranie!
+				Poradnik DBM 2 - Profesionalna komenda na czyszczenie czatu
 			</u>
 		</h1>
 	</center>
-	<hr />
 
 <h2>
 		Wymagane moduły:
